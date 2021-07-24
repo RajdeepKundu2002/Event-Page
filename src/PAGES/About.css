@@ -1,0 +1,39 @@
+.IEEE {
+  color: rgb(199, 190, 190);
+  background-color: rgb(0, 0, 0, 0.8);
+  border: 5px solid yellow;
+  border-bottom-right-radius: 15px;
+  border-top-left-radius: 15px;
+  padding: 7px;
+  font-size: 35px;
+}
+.button1 {
+  color: cyan;
+  background-color: #4caf50;
+  font-size: 20px;
+  margin-top: 20px;
+  padding: 10px 10px;
+  border-radius: 4px;
+  display: inline-block;
+  transition-duration: 0.4s;
+  outline: none;
+  font-weight: 700;
+}
+.button1:hover {
+  font-size: 23px;
+  padding: 5px 2px;
+  background-color: #42cc46;
+  color: rgb(57, 67, 202);
+}
+.button1:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  color: rgb(61, 72, 235);
+  transform: translateY(2px);
+}
+.head{
+    background-color: rgb(0,0,0,0.5);
+    color:rgb(92, 233, 37);
+    padding: 5px;
+    font-size: 50px;
+}
